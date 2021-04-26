@@ -1,0 +1,312 @@
+body{
+	margin:0px;
+	padding: 0px ; 
+	font-family: 'Raleway', sans-serif;
+}
+
+video{
+	width: 80%;
+	height: auto;
+}
+.nav{
+	background-color: white;
+}
+.navtext{
+  color: #712B84 !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  font-size: 15px !important;
+  font-weight: bold;
+  }
+ nav .navbar-nav li a:hover{
+    border-bottom:3px solid #712B84 ; 
+  }
+  .Benwowl img{
+  	  }
+ .navimg{
+  	padding-left: 25px !important;
+  }
+
+  .sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+.banner .container-fluid{ 
+	padding-right:0px;
+	padding-left: 0px;
+	overflow: hidden;
+
+}
+.headtext{
+	padding-top: 80px;
+	padding-bottom: 50px;
+}
+.headtext h1{
+	color: #712B84;
+	text-align: center;
+	font-size: 40px;
+}
+.headtext .line{
+	width: 70px;
+	background-color:#712B84;
+	height: 3px; 
+}
+.headtext2{
+	padding-top: 80px;
+	padding-bottom: 50px;
+}
+.headtext2 h1{
+	color: white;
+}
+.headtext2 .line2{
+	width: 70px;
+	background-color:white;
+	height: 3px; 
+}
+.benifit_cont{
+ padding-top: 50px;
+ display: inline-block;
+}
+.benifit_cont2{
+ padding-top: 50px;
+ padding-bottom: 50px;
+ 
+}
+
+.icon-wrapper{
+  color:#712B84;
+  border: 2px solid #712B84;
+  border-radius: 8px; 
+  padding: 25px;
+  float: left;
+  margin-right: 20px;
+}
+ .cont_wrapper{
+	color:#712B84; 
+}
+.cont_wrapper h5{
+	font-weight: bold; 
+}
+.cont_wrapper2 h5{
+	font-weight: bold; 
+}
+.cont_wrapper2{
+	color:#712B84;
+	text-align: right; 
+}
+.margin_bottom{
+  margin-bottom: 30px;
+}
+.mb100{
+  margin-bottom: 100px;
+}
+.vdo{
+	margin-bottom: 100px;
+	overflow: hidden;
+}
+.vdo h2{
+	color: #712B84;
+	padding-bottom: 30px;
+}
+.Baao{
+	background-color: #F7F7F7; 
+}
+.babm-content .icon{
+  color:#712B84;
+  border: 2px solid #712B84;
+  border-radius: 8px; 
+  padding: 25px;
+  float: right;
+  margin-left: 20px;
+
+}
+.download{
+	background: url("../images/slider/3.jpg");
+	width: 100%;
+	background-position:center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 680px;
+}
+.addphoto label {
+  background: url("../images/add_photo.png");
+  height: 120px;
+  width: 120px;
+  cursor: pointer;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+.reg_margin{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.mb-40{
+	margin-bottom: 40px;
+}
+.left_form input::placeholder{
+ padding-left: 50px;   
+
+}
+.right_form input::placeholder{
+ padding-left: 50px;   
+
+}
+.input-control{
+	border:none;
+	border: 1px solid #712B84; 
+	border-left: hidden;
+}
+
+.responsive-item{
+	height: 200px;
+	width: 100%;
+	border:none;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+.map{
+	margin-bottom: 20px;
+}
+.btn-cus{
+	background-color: #712B84;
+	color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 220px;
+	font-size:20px;
+	font-weight: bold; 
+	margin-bottom: 100px; 
+}
+.btn-cus:hover{
+	cursor: pointer;
+	background-color: #885B94;
+}
+.mb-20{
+	margin-bottom: 30px;
+}
+
+
+.btn-v{
+	background-color: #712B84;
+	color: white;
+	font-weight:bold; 
+}
+.btn-v:hover{
+	background-color: #885B94;
+}
+ .pricing{
+ 	background-color: #F7F7F7;
+ 	min-height:600px;
+ }
+
+.btn-usr{
+	width: 100%;
+	background-color: #885B94;
+	color: white;
+	height: 45px;
+	border-radius: 1px;
+}
+
+.btn-bsn{
+	width: 100%;
+	background-color: #673974;
+	color: white;
+	height: 45px;
+	border-radius: 1px;
+}
+.business p{
+	padding-top:50px;
+    padding-bottom:50px; 
+}
+.btn-bb{
+	width: 85%;
+	background-color: #673974;
+	color: white;
+	height: 45px;
+	border-radius: 8px;
+	margin-bottom: 10px;
+}
+.btn-bb:hover{
+	background-color: #885B94;
+}
+.user{
+   padding-top: 100px;
+}
+.pdr-0{
+	padding-right: 0;
+}
+.pdl-0{
+	padding-left: 0;
+}
+.content{
+	font-weight:bold;
+	padding-top: 80px;
+}
+
+.address{
+	margin-top: 20px;
+}
+.address i{
+	float: left;
+	color: #712B84;
+	padding-right: 20px;
+}
+.input-group i{
+	position: absolute;
+	color: #CDCAC3;
+	z-index: 100;
+	top:30%;
+	left: 3%;
+	font-size: 18px; 
+} 
+.input-group i:hover{
+	color: #712B84;
+}
+
+.input-group .special{
+	position: absolute;
+	color: #CDCAC3;
+	z-index: 100;
+	top:10%;
+	left: 3%;
+	font-size: 18px; 
+} 
+.input-group{
+	border-radius: 9px solid black;
+}
+
+.contact input::placeholder{
+ padding-left: 30px;   
+
+}
+.contact textarea::placeholder{
+ padding-left: 30px;   
+
+}
+
+.bgnone{
+   background-color: #FFFFFF;
+   border: 1px solid #712B84;
+   border-right: hidden;
+}
+.borderhide{
+  border: 1px solid #712B84;
+  border-left: hidden;
+  }
+
+ .top i{
+ 	color: white;
+ 	padding: 20px;
+ 	border:1px solid grey;
+ 	background-color: grey;
+ 	opacity: 0.5;
+ }
+
+ .footer{
+	background-color: #5C2E90;
+	min-height: 70px;
+	color: white;
+}
